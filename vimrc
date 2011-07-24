@@ -23,6 +23,7 @@ map <Leader><CR> :Ex<CR>
 map <Leader><Tab> :BufExplorer<CR>
 map <Leader>/ :nohlsearch<CR>
 map <Leader>g :echo(expand("%:p"))<CR>
+map <Leader>l :set list!<CR>
 
 ab modeline vim: sts=4 sw=4 ts=4 et
 ab defpy def func():    pass
