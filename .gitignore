@@ -2,3 +2,5 @@
 *.un~
 tags
 tmp/*
+.netrwhist
+xml-plugin.txt
